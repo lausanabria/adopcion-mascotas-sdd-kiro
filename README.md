@@ -53,6 +53,16 @@ npm run dev
 
 Y Listo! Abre en el navegador la url [http://localhost:5173](http://localhost:5173) 
 
+##Prompts usados para la ejecución de los agentes
+
+###Prompt para el backend
+Actúa como un desarrollador backend senior en Java y SpringBoot. Analiza los archivos requeriments.md y database.md  e implementa el código del backend completo siguiendo estrictamente lo especificado en ambos documentos.
+Crea todos los archivos necesarios(enums, modelos, DTOs, repositorios, servicios, controladores y propiedades de configuración asegurándote de que el proyecto compile correctamente.
+
+###Prompt para el frontend
+Crea la interfaz de peluditos en este proyecto React. Usa la API de .kiro/steering/api-peluditos.md y respeta el diseño de .kiro/steering/diseno-peluditos.md.
+Una sola pantalla, encabezado con filtros por tipo de mascota, cuadrícula de mascotas disponibles y un botón en cada tarjeta que abre un modal para solicitar la adopción, con los campos que pide la API. Todo en español.
+
 ## 🤝 ¿Quieres dejarme una sugerencia?
 
 Puedes escribirme a mi [Instagram](https://www.instagram.com/lausanabriac).
